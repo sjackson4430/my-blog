@@ -30,7 +30,8 @@ twitter_username: sjackson4430
 github_username:  sjackson4430
 
 # Build settings
-theme: minima
+#Removed minima theme as it is now a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
